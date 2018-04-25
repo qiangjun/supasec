@@ -81,5 +81,5 @@ theme: casual
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:qiangjun/supasec.github.io.git
+  repo: git@github.com:qiangjun/supasec_www.github.io.git
   branch: master
